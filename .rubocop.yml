@@ -1,0 +1,20 @@
+Style/AlignHash:
+  EnforcedHashRocketStyle: table
+  EnforcedColonStyle: table
+
+Style/Documentation:
+  Enabled: false
+
+Lint/EndAlignment:
+  AlignWith: variable
+  AutoCorrect: true
+
+Style/FileName:
+  Enabled: false
+
+Metrics/LineLength:
+  Exclude:
+    - spec/*/**
+
+Style/DeprecatedHashMethods:
+  Enabled: false
