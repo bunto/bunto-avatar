@@ -6,11 +6,11 @@ require 'bunto-avatar/version'
 Gem::Specification.new do |spec|
   spec.name          = 'bunto-avatar'
   spec.version       = Bunto::Avatar::VERSION
-  spec.authors       = ['Ben Balter', 'Suriyaa Kudo']
-  spec.email         = ['ben.balter@github.com', 'SuriyaaKudoIsc@users.noreply.github.com']
+  spec.authors       = ['Suriyaa Kudo', 'Ben Balter']
+  spec.email         = ['SuriyaaKudoIsc@users.noreply.github.com']
 
   spec.summary       = 'A Bunto plugin for rendering GitHub avatars'
-  spec.homepage      = 'https://github.com/benbalter/bunto-avatar'
+  spec.homepage      = 'https://github.com/bunto/bunto-avatar'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |file|
