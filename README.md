@@ -2,7 +2,7 @@
 
 *A Bunto plugin for rendering GitHub avatars*
 
-[![Build Status](https://travis-ci.org/benbalter/bunto-avatar.svg)](https://travis-ci.org/benbalter/bunto-avatar)
+[![Build Status](https://travis-ci.org/bunto/bunto-avatar.svg)](https://travis-ci.org/bunto/bunto-avatar)
 
 Bunto Avatar makes it easy to add GitHub avatars to your Bunto site by specifying a username. If performance is a concern, Bunto Avatar is deeply integrated with the GitHub avatar API, ensuring avatars are cached and load in parallel. It even automatically upgrades users to Retina images, when supported.
 
